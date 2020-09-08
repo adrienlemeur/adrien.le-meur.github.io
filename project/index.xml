@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | </title>
-    <link>irenetanneur.github.io/project/</link>
-      <atom:link href="irenetanneur.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://irenetanneur.github.io/project/</link>
+      <atom:link href="https://irenetanneur.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 30 Aug 2020 16:52:51 +0200</lastBuildDate>
     <image>
-      <url>/irenetanneur.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://irenetanneur.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>irenetanneur.github.io/project/</link>
+      <link>https://irenetanneur.github.io/project/</link>
     </image>
     
     <item>
       <title>La Bio Au Labo</title>
-      <link>irenetanneur.github.io/project/la-bio-au-labo/</link>
+      <link>https://irenetanneur.github.io/project/la-bio-au-labo/</link>
       <pubDate>Sun, 30 Aug 2020 16:52:51 +0200</pubDate>
-      <guid>irenetanneur.github.io/project/la-bio-au-labo/</guid>
+      <guid>https://irenetanneur.github.io/project/la-bio-au-labo/</guid>
       <description>&lt;p&gt;In July 2020, I curated the collaborative Twitter account 
 &lt;a href=&#34;https://labioaulabo.tumblr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;La Bio au Labo&lt;/a&gt; to share my daily life in the lab. You can find my tweets 
 &lt;a href=&#34;https://wakelet.com/wake/cgmz595m48y8nlfzNAz5K&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (in French).&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Scientific Communication Mission for Paris-Saclay University</title>
-      <link>irenetanneur.github.io/project/comm-paris-saclay/</link>
+      <link>https://irenetanneur.github.io/project/comm-paris-saclay/</link>
       <pubDate>Sun, 30 Aug 2020 15:15:57 +0200</pubDate>
-      <guid>irenetanneur.github.io/project/comm-paris-saclay/</guid>
+      <guid>https://irenetanneur.github.io/project/comm-paris-saclay/</guid>
       <description>&lt;p&gt;During the academic year 2019-2020, I had the chance to work for the communication service of Paris-Saclay University, as a side dish to my doctoral work, under the supervision of Véronique Meder. I prepared and conducted all interviews, selected the quotes to be used, and wrote the articles.&lt;/p&gt;
 &lt;p&gt;NB : I wrote the articles in French and they were later translated by someone else.&lt;/p&gt;
 &lt;p&gt;

@@ -3,196 +3,196 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>irenetanneur.github.io/</loc>
+    <loc>https://irenetanneur.github.io/</loc>
     <lastmod>2020-08-30T16:52:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/"
+                href="https://irenetanneur.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/"
+                href="https://irenetanneur.github.io/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/categories/</loc>
+    <loc>https://irenetanneur.github.io/categories/</loc>
     <lastmod>2020-08-30T16:52:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/categories/"
+                href="https://irenetanneur.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/categories/"
+                href="https://irenetanneur.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/project/la-bio-au-labo/</loc>
+    <loc>https://irenetanneur.github.io/project/la-bio-au-labo/</loc>
     <lastmod>2020-08-30T16:52:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/project/la-bio-au-labo/"
+                href="https://irenetanneur.github.io/fr/project/la-bio-au-labo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/project/la-bio-au-labo/"
+                href="https://irenetanneur.github.io/project/la-bio-au-labo/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/project/</loc>
+    <loc>https://irenetanneur.github.io/project/</loc>
     <lastmod>2020-08-30T16:52:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/project/"
+                href="https://irenetanneur.github.io/fr/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/project/"
+                href="https://irenetanneur.github.io/project/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/category/science-articles-and-communication/</loc>
+    <loc>https://irenetanneur.github.io/category/science-articles-and-communication/</loc>
     <lastmod>2020-08-30T16:52:51+02:00</lastmod>
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/tag/science-comm/</loc>
-    <lastmod>2020-08-30T16:52:51+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="irenetanneur.github.io/fr/tag/science-comm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="irenetanneur.github.io/tag/science-comm/"
-                />
-  </url>
-  
-  <url>
-    <loc>irenetanneur.github.io/tags/</loc>
+    <loc>https://irenetanneur.github.io/tag/science-comm/</loc>
     <lastmod>2020-08-30T16:52:51+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/tags/"
+                href="https://irenetanneur.github.io/fr/tag/science-comm/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/tags/"
+                href="https://irenetanneur.github.io/tag/science-comm/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/project/comm-paris-saclay/</loc>
+    <loc>https://irenetanneur.github.io/tags/</loc>
+    <lastmod>2020-08-30T16:52:51+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/project/comm-paris-saclay/</loc>
     <lastmod>2020-08-30T15:15:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/project/comm-paris-saclay/"
+                href="https://irenetanneur.github.io/fr/project/comm-paris-saclay/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/project/comm-paris-saclay/"
+                href="https://irenetanneur.github.io/project/comm-paris-saclay/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/authors/</loc>
+    <loc>https://irenetanneur.github.io/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/authors/"
+                href="https://irenetanneur.github.io/fr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/authors/"
+                href="https://irenetanneur.github.io/authors/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/author/irene-tanneur/</loc>
+    <loc>https://irenetanneur.github.io/author/irene-tanneur/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/author/irene-tanneur/"
+                href="https://irenetanneur.github.io/fr/author/irene-tanneur/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/author/irene-tanneur/"
+                href="https://irenetanneur.github.io/author/irene-tanneur/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/post/</loc>
+    <loc>https://irenetanneur.github.io/post/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/post/"
+                href="https://irenetanneur.github.io/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/post/"
+                href="https://irenetanneur.github.io/post/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/publication_types/</loc>
+    <loc>https://irenetanneur.github.io/publication_types/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/publication_types/"
+                href="https://irenetanneur.github.io/fr/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/publication_types/"
+                href="https://irenetanneur.github.io/publication_types/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/publication/</loc>
+    <loc>https://irenetanneur.github.io/publication/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/publication/"
+                href="https://irenetanneur.github.io/fr/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/publication/"
+                href="https://irenetanneur.github.io/publication/"
                 />
   </url>
   
   <url>
-    <loc>irenetanneur.github.io/talk/</loc>
+    <loc>https://irenetanneur.github.io/talk/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="irenetanneur.github.io/fr/talk/"
+                href="https://irenetanneur.github.io/fr/talk/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="irenetanneur.github.io/talk/"
+                href="https://irenetanneur.github.io/talk/"
                 />
   </url>
   
