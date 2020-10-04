@@ -17,7 +17,8 @@
       <link>https://irenetanneur.github.io/fr/post/ltee_article/</link>
       <pubDate>Sun, 04 Oct 2020 12:03:32 +0200</pubDate>
       <guid>https://irenetanneur.github.io/fr/post/ltee_article/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;C’est une belle histoire, que celle de cette expérience qui est en cours depuis plus de trente ans à l’Université du Michigan. A l’époque, personne ne pouvait deviner sa pérennité à venir, ni l’importance considérable qu’elle aurait sur le champ de la biologie de l’évolution. Essayons de résumer cette expérience - connue sous le petit nom de LTEE, pout Long Term Evolution Experiment  - et son importance pour la communauté scientifique.&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;strong&gt;C’est une belle histoire, que celle de cette expérience qui est en cours depuis plus de trente ans à l’Université du Michigan. A l’époque, personne ne pouvait deviner sa pérennité à venir, ni l’importance considérable qu’elle aurait sur le champ de la biologie de l’évolution. Essayons de résumer cette expérience - connue sous le petit nom de LTEE, pour Long Term Evolution Experiment  - et son importance pour la communauté scientifique.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;La culture bactérienne est une technique simple mais primordiale en microbiologie : elle consiste à placer un microorganisme dans un milieu contenant des nutriments lui permettant de se reproduire. La croissance des bactéries durant la culture se divise en plusieurs phases : durant la phase de ‘lag’ ou phase d’adaptation, les bactéries s’adaptent au milieu, aux conditions de croissance : elles synthétisent alors les molécules nécessaires à leur reproduction. Puis elles entrent en phase exponentielle, la phase de croissance, pendant laquelle elles se divisent ; leur nombre double alors régulièrement. Lorsque les bactéries ont consommé la majorité des nutriments du milieu de culture, elles ne peuvent plus se reproduire : on dit alors que la culture est “à saturation”.&lt;/p&gt;
 &lt;p&gt;En 1988, un jeune chercheur américain nommé Richard Lenski se lance dans une petite expérience : il met en place deux cultures d’&lt;em&gt;Escherichia coli&lt;/em&gt;, une bactérie modèle – c’est à dire bien connue des scientifiques – et décide de maintenir cette expérience et de faire évoluer ces bactéries en laboratoire. Pour cela, il suffit de prélever le lendemain une partie de la culture liquide - qui contient alors peu de nutriments, mais de nombreuses bactéries - et de la placer dans du milieu de culture contenant des nutriments, pour que les bactéries puissent à nouveau se diviser. A chaque division, les bactéries peuvent acquérir des mutations ; placer une partie de la culture précédente dans un nouveau milieu permet donc aux bactéries de cumuler des mutations au fil de l’expérience.&lt;/p&gt;
 &lt;h2 id=&#34;le-tube-à-essai--un-outil-simple-mais-pratique-pour-étudier-lévolution&#34;&gt;Le tube à essai : un outil simple mais pratique pour étudier l’évolution&lt;/h2&gt;
@@ -34,10 +35,13 @@ Plus de 30 ans après, l’expérience est toujours en cours, avec à ce jour 12
 &lt;li&gt;Wiser, M. J., Ribeck, N., &amp;amp; Lenski, R. E. (2013). Long-Term Dynamics of Adaptation in Asexual Populations. Science, 342(6164), 1364‑1367. &lt;a href=&#34;https://doi.org/10.1126/science.1243357&#34;&gt;https://doi.org/10.1126/science.1243357&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;pour-aller-plus-loin&#34;&gt;Pour aller plus loin&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://telliamedrevisited.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Le blog de Richard Lenski &lt;em&gt;himself&lt;/em&gt;&lt;/a&gt; (en anglais)
-
-&lt;a href=&#34;https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-09-mai-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Les émissions scientifiques au long cours, dans l&amp;rsquo;émission &lt;em&gt;La Terre au Carré&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://telliamedrevisited.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Le blog de Richard Lenski &lt;em&gt;himself&lt;/em&gt;&lt;/a&gt; (en anglais)&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-09-mai-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Les émissions scientifiques au long cours, dans l&amp;rsquo;émission &lt;em&gt;La Terre au Carré&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 </description>
     </item>
     
