@@ -17,7 +17,8 @@
       <link>https://irenetanneur.github.io/post/ltee_article/</link>
       <pubDate>Sun, 04 Oct 2020 11:57:57 +0200</pubDate>
       <guid>https://irenetanneur.github.io/post/ltee_article/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;What a beautiful (evolutionary hi)story : an experiment has been going on for more than thirty years at the University of Michigan. At the time, no one could have guessed how long it would last, nor the considerable importance it would have on the field of evolutionary biology. Let&amp;rsquo;s try to summarize this experiment - known as LTEE, Long Term Evolution Experiment - and its importance for the scientific community.&lt;/strong&gt;&lt;/p&gt;
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;strong&gt;What a beautiful (evolutionary hi)story : an experiment has been going on for more than thirty years at the University of Michigan. At the time, no one could have guessed how long it would last, nor the considerable importance it would have on the field of evolutionary biology. Let&amp;rsquo;s try to summarize this experiment - known as LTEE, Long Term Evolution Experiment - and its importance for the scientific community.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bacterial culture is a simple but essential technique in microbiology: it consists of placing a microorganism in a medium containing nutrients, so that it can reproduce. The growth of bacteria during culture is divided into several phases: during the lag phase, the bacteria adapt to the environment and to the growth conditions: they synthesize the molecules necessary for their reproduction. Then they enter an exponential phase, the growth phase, during which they divide; their number then doubles regularly. When the bacteria have consumed the majority of the nutrients in the culture medium, they can no longer reproduce: the culture is then said to be saturated.&lt;/p&gt;
 &lt;p&gt;In 1988, a young American researcher named Richard Lenski started a small experiment: he set up two cultures of &lt;em&gt;Escherichia coli&lt;/em&gt;, a model bacterium - i.e., well known to biologists - and decided to maintain this experiment. To do this, all he had to do the next day was to take part of the liquid culture - which then contained few nutrients but many bacteria - and place it in culture medium containing nutrients, so that the bacteria could divide again. With each division, the bacteria can acquire mutations; placing part of the previous culture in a new medium therefore allows the bacteria to accumulate mutations as the experiment progresses.&lt;/p&gt;
 &lt;h2 id=&#34;the-test-tube-a-simple-but-practical-tool-for-studying-evolution&#34;&gt;The test tube: a simple but practical tool for studying evolution&lt;/h2&gt;
@@ -34,11 +35,13 @@ More than 30 years later, the experiment is still ongoing, with 12 populations e
 &lt;li&gt;Wiser, M. J., Ribeck, N., &amp;amp; Lenski, R. E. (2013). Long-Term Dynamics of Adaptation in Asexual Populations. Science, 342(6164), 1364‑1367. &lt;a href=&#34;https://doi.org/10.1126/science.1243357&#34;&gt;https://doi.org/10.1126/science.1243357&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;to-go-further&#34;&gt;To go further&lt;/h3&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://telliamedrevisited.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Lenski&amp;rsquo;s blog&lt;/a&gt;
-
-&lt;a href=&#34;https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-09-mai-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long-term scientific experiments, in the radio program &lt;em&gt;La Terre au Carré&lt;/em&gt;&lt;/a&gt; (in French)&lt;/p&gt;
-</description>
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://telliamedrevisited.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Lenski&amp;rsquo;s blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-09-mai-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long-term scientific experiments, in the radio program &lt;em&gt;La Terre au Carré&lt;/em&gt;&lt;/a&gt; (in French)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
     </item>
     
   </channel>
