@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Irène Tanneur</title>
-    <link>https://irenetanneur.github.io/post/</link>
-      <atom:link href="https://irenetanneur.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://irenetanneur.github.io/en/post/</link>
+      <atom:link href="https://irenetanneur.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 11:57:57 +0200</lastBuildDate>
     <image>
-      <url>https://irenetanneur.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://irenetanneur.github.io/post/</link>
+      <link>https://irenetanneur.github.io/en/post/</link>
     </image>
     
     <item>
       <title>Long Term Evolution Experiment : evolving bacteria since 1988</title>
-      <link>https://irenetanneur.github.io/post/ltee_article/</link>
+      <link>https://irenetanneur.github.io/en/post/ltee_article/</link>
       <pubDate>Sun, 04 Oct 2020 11:57:57 +0200</pubDate>
-      <guid>https://irenetanneur.github.io/post/ltee_article/</guid>
+      <guid>https://irenetanneur.github.io/en/post/ltee_article/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;&lt;strong&gt;What a beautiful (evolutionary hi)story : an experiment has been going on for more than thirty years at the University of Michigan. At the time, no one could have guessed how long it would last, nor the considerable importance it would have on the field of evolutionary biology. Let&amp;rsquo;s try to summarize this experiment - known as LTEE, Long Term Evolution Experiment - and its importance for the scientific community.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bacterial culture is a simple but essential technique in microbiology: it consists of placing a microorganism in a medium containing nutrients, so that it can reproduce. The growth of bacteria during culture is divided into several phases: during the lag phase, the bacteria adapt to the environment and to the growth conditions: they synthesize the molecules necessary for their reproduction. Then they enter an exponential phase, the growth phase, during which they divide; their number then doubles regularly. When the bacteria have consumed the majority of the nutrients in the culture medium, they can no longer reproduce: the culture is then said to be saturated.&lt;/p&gt;

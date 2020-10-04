@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Irène Tanneur</title>
-    <link>https://irenetanneur.github.io/</link>
-      <atom:link href="https://irenetanneur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://irenetanneur.github.io/en/</link>
+      <atom:link href="https://irenetanneur.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Irène Tanneur</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 11:57:57 +0200</lastBuildDate>
     <image>
-      <url>https://irenetanneur.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Irène Tanneur</title>
-      <link>https://irenetanneur.github.io/</link>
+      <link>https://irenetanneur.github.io/en/</link>
     </image>
     
     <item>
       <title>Long Term Evolution Experiment : evolving bacteria since 1988</title>
-      <link>https://irenetanneur.github.io/post/ltee_article/</link>
+      <link>https://irenetanneur.github.io/en/post/ltee_article/</link>
       <pubDate>Sun, 04 Oct 2020 11:57:57 +0200</pubDate>
-      <guid>https://irenetanneur.github.io/post/ltee_article/</guid>
+      <guid>https://irenetanneur.github.io/en/post/ltee_article/</guid>
       <description>&lt;div style=&#34;text-align: justify&#34;&gt;
 &lt;p&gt;&lt;strong&gt;What a beautiful (evolutionary hi)story : an experiment has been going on for more than thirty years at the University of Michigan. At the time, no one could have guessed how long it would last, nor the considerable importance it would have on the field of evolutionary biology. Let&amp;rsquo;s try to summarize this experiment - known as LTEE, Long Term Evolution Experiment - and its importance for the scientific community.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bacterial culture is a simple but essential technique in microbiology: it consists of placing a microorganism in a medium containing nutrients, so that it can reproduce. The growth of bacteria during culture is divided into several phases: during the lag phase, the bacteria adapt to the environment and to the growth conditions: they synthesize the molecules necessary for their reproduction. Then they enter an exponential phase, the growth phase, during which they divide; their number then doubles regularly. When the bacteria have consumed the majority of the nutrients in the culture medium, they can no longer reproduce: the culture is then said to be saturated.&lt;/p&gt;
@@ -46,9 +46,9 @@ More than 30 years later, the experiment is still ongoing, with 12 populations e
     
     <item>
       <title>La Bio Au Labo</title>
-      <link>https://irenetanneur.github.io/project/la-bio-au-labo/</link>
+      <link>https://irenetanneur.github.io/en/project/la-bio-au-labo/</link>
       <pubDate>Sun, 30 Aug 2020 16:52:51 +0200</pubDate>
-      <guid>https://irenetanneur.github.io/project/la-bio-au-labo/</guid>
+      <guid>https://irenetanneur.github.io/en/project/la-bio-au-labo/</guid>
       <description>&lt;p&gt;In July 2020, I curated the collaborative Twitter account 
 &lt;a href=&#34;https://labioaulabo.tumblr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;La Bio au Labo&lt;/a&gt; to share my daily life in the lab. You can find my tweets 
 &lt;a href=&#34;https://wakelet.com/wake/cgmz595m48y8nlfzNAz5K&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (in French).&lt;/p&gt;
@@ -57,9 +57,9 @@ More than 30 years later, the experiment is still ongoing, with 12 populations e
     
     <item>
       <title>Scientific Communication Mission for Paris-Saclay University</title>
-      <link>https://irenetanneur.github.io/project/comm-paris-saclay/</link>
+      <link>https://irenetanneur.github.io/en/project/comm-paris-saclay/</link>
       <pubDate>Sun, 30 Aug 2020 15:15:57 +0200</pubDate>
-      <guid>https://irenetanneur.github.io/project/comm-paris-saclay/</guid>
+      <guid>https://irenetanneur.github.io/en/project/comm-paris-saclay/</guid>
       <description>&lt;p&gt;During the academic year 2019-2020, I had the chance to work for the communication service of Paris-Saclay University, as a side dish to my doctoral work, under the supervision of Véronique Meder. I prepared and conducted all interviews, selected the quotes to be used, and wrote the articles.&lt;/p&gt;
 &lt;p&gt;NB : I wrote the articles in French and they were later translated by someone else.&lt;/p&gt;
 &lt;p&gt;
