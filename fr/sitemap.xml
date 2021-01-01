@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/fr/authors/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/fr/categories/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -34,12 +34,12 @@
   
   <url>
     <loc>https://irenetanneur.github.io/fr/category/communication-scientifique/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://irenetanneur.github.io/fr/author/irene-tanneur/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -54,7 +54,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/fr/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -64,6 +64,66 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://irenetanneur.github.io/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/fr/project/js2/</loc>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/js2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/js2/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/fr/project/</loc>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/fr/tag/science-comm/</loc>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/tag/science-comm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/tag/science-comm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/fr/tags/</loc>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/tags/"
                 />
   </url>
   
@@ -79,51 +139,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://irenetanneur.github.io/fr/project/papiermache/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://irenetanneur.github.io/fr/project/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/project/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://irenetanneur.github.io/fr/tag/science-comm/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/tag/science-comm/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/tag/science-comm/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://irenetanneur.github.io/fr/tags/</loc>
-    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/tags/"
                 />
   </url>
   
