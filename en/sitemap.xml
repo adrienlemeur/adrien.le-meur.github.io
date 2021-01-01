@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/en/</loc>
-    <lastmod>2020-10-04T11:57:57+02:00</lastmod>
+    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -14,6 +14,121 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://irenetanneur.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/project/papiermache/</loc>
+    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/papiermache/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/papiermache/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/project/</loc>
+    <lastmod>2021-01-01T09:06:54+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/post/communicate_science/</loc>
+    <lastmod>2020-11-08T17:29:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/post/communicate_science/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/post/communicate_science/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/post/</loc>
+    <lastmod>2020-11-08T17:29:18+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/authors/</loc>
+    <lastmod>2020-10-04T11:57:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/tag/biology/</loc>
+    <lastmod>2020-10-04T11:57:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/tag/evolution/</loc>
+    <lastmod>2020-10-04T11:57:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/tag/evolution/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/tag/evolution/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/tag/experimental-evolution/</loc>
+    <lastmod>2020-10-04T11:57:57+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/author/irene-tanneur/</loc>
+    <lastmod>2020-10-04T11:57:57+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/author/irene-tanneur/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/author/irene-tanneur/"
                 />
   </url>
   
@@ -33,17 +148,17 @@
   </url>
   
   <url>
-    <loc>https://irenetanneur.github.io/en/post/</loc>
+    <loc>https://irenetanneur.github.io/en/tags/</loc>
     <lastmod>2020-10-04T11:57:57+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://irenetanneur.github.io/fr/post/"
+                href="https://irenetanneur.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://irenetanneur.github.io/en/post/"
+                href="https://irenetanneur.github.io/en/tags/"
                 />
   </url>
   
@@ -78,21 +193,6 @@
   </url>
   
   <url>
-    <loc>https://irenetanneur.github.io/en/project/</loc>
-    <lastmod>2020-08-30T16:52:51+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/project/"
-                />
-  </url>
-  
-  <url>
     <loc>https://irenetanneur.github.io/en/category/science-articles-and-communication/</loc>
     <lastmod>2020-08-30T16:52:51+02:00</lastmod>
   </url>
@@ -113,21 +213,6 @@
   </url>
   
   <url>
-    <loc>https://irenetanneur.github.io/en/tags/</loc>
-    <lastmod>2020-08-30T16:52:51+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://irenetanneur.github.io/en/project/comm-paris-saclay/</loc>
     <lastmod>2020-08-30T15:15:57+02:00</lastmod>
     <xhtml:link
@@ -139,20 +224,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://irenetanneur.github.io/en/project/comm-paris-saclay/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://irenetanneur.github.io/en/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/authors/"
                 />
   </url>
   

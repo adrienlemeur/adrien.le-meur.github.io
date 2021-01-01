@@ -5,12 +5,20 @@
     <link>https://irenetanneur.github.io/en/post/</link>
       <atom:link href="https://irenetanneur.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Oct 2020 11:57:57 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Nov 2020 17:29:18 +0100</lastBuildDate>
     <image>
       <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>https://irenetanneur.github.io/en/post/</link>
     </image>
+    
+    <item>
+      <title>Communicate_science</title>
+      <link>https://irenetanneur.github.io/en/post/communicate_science/</link>
+      <pubDate>Sun, 08 Nov 2020 17:29:18 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/en/post/communicate_science/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Long Term Evolution Experiment : evolving bacteria since 1988</title>

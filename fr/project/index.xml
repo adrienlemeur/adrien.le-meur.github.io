@@ -5,12 +5,20 @@
     <link>https://irenetanneur.github.io/fr/project/</link>
       <atom:link href="https://irenetanneur.github.io/fr/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 30 Aug 2020 16:52:51 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jan 2021 09:06:54 +0100</lastBuildDate>
     <image>
       <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://irenetanneur.github.io/fr/project/</link>
     </image>
+    
+    <item>
+      <title>Papier Mâché</title>
+      <link>https://irenetanneur.github.io/fr/project/papiermache/</link>
+      <pubDate>Fri, 01 Jan 2021 09:06:54 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/fr/project/papiermache/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>La Bio Au Labo</title>
@@ -29,6 +37,10 @@
       <pubDate>Sun, 30 Aug 2020 15:15:57 +0200</pubDate>
       <guid>https://irenetanneur.github.io/fr/project/comm-paris-saclay/</guid>
       <description>&lt;p&gt;Pendant l&amp;rsquo;année 2019-2020, j&amp;rsquo;ai eu la chance de travailler pour le service de la communication de l&amp;rsquo;Université Paris-Saclay, en parallèle de mon travail de thèse, sous la supervision de Véronique Meder. J&amp;rsquo;ai préparé et mené les interviews d&amp;rsquo;où sont extraites les verbatims présents dans les articles, et écrit les articles ci-dessous.&lt;/p&gt;
+&lt;p&gt;Dans 
+&lt;a href=&#34;https://www.universite-paris-saclay.fr/sites/default/files/2020-10/UPS_EDITION%2314_VF_WEB.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;l&amp;rsquo;Édition de l&amp;rsquo;Université Paris-Saclay #14&lt;/a&gt; (journal papier del&amp;rsquo;Université Paris-Saclay) : brèves &amp;ldquo;Vienne la nuit sonne  l’heure : l’écoulement du temps  en confinement&amp;rdquo; et &amp;ldquo;Un laboratoire haute sécurité pour l’étude d’organismes pathogènes sur le plateau de Saclay&amp;rdquo;, et article &amp;ldquo;Covid-19 : l’Université Paris-Saclay, un foyer de projets&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.universite-paris-saclay.fr/actualites/vingt-six-ans-plus-tard-le-genocide-des-tutsi-au-rwanda-au-coeur-de-lactualite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vingt-six ans plus tard, le génocide des Tutsi au Rwanda au cœur de l’actualité &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://www.universite-paris-saclay.fr/actualites/cecile-coquet-mokoko-il-fallait-une-icone-notre-epoque-et-cette-icone-ete-george-floyd&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cécile Coquet-Mokoko : &amp;ldquo;Il fallait une icône à notre époque, et cette icône a été George Floyd&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
