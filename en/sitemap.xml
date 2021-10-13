@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/en/authors/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/en/categories/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -34,7 +34,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/en/author/irene-tanneur/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -48,38 +48,8 @@
   </url>
   
   <url>
-    <loc>https://irenetanneur.github.io/en/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://irenetanneur.github.io/en/project/js2/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/project/js2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/project/js2/"
-                />
-  </url>
-  
-  <url>
     <loc>https://irenetanneur.github.io/en/project/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -94,12 +64,37 @@
   
   <url>
     <loc>https://irenetanneur.github.io/en/category/science-articles-and-communication/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/category/science-articles-and-communication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/category/science-articles-and-communication/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/project/science-comedy-show/</loc>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/science-comedy-show/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/science-comedy-show/"
+                />
   </url>
   
   <url>
     <loc>https://irenetanneur.github.io/en/tag/science-comm/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -114,7 +109,7 @@
   
   <url>
     <loc>https://irenetanneur.github.io/en/tags/</loc>
-    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -124,6 +119,41 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://irenetanneur.github.io/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/</loc>
+    <lastmod>2021-10-13T06:34:54+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/science-comedy-show/</loc>
+    <lastmod>2021-10-13T06:34:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/project/js2/</loc>
+    <lastmod>2021-01-01T11:16:17+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/js2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/js2/"
                 />
   </url>
   

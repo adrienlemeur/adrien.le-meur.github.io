@@ -5,12 +5,20 @@
     <link>https://irenetanneur.github.io/fr/</link>
       <atom:link href="https://irenetanneur.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Irène Tanneur</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 01 Jan 2021 11:16:17 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Wed, 13 Oct 2021 06:48:44 +0200</lastBuildDate>
     <image>
       <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Irène Tanneur</title>
       <link>https://irenetanneur.github.io/fr/</link>
     </image>
+    
+    <item>
+      <title>Science Comedy Show</title>
+      <link>https://irenetanneur.github.io/fr/project/science-comedy-show/</link>
+      <pubDate>Wed, 13 Oct 2021 06:48:44 +0200</pubDate>
+      <guid>https://irenetanneur.github.io/fr/project/science-comedy-show/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Je Science donc Je Suis</title>
@@ -25,10 +33,33 @@ Les casquettes étant multiples à Je Science donc Je Suis, je me suis égalemen
 &lt;li&gt;Les inégalités sociales en sciences et le capital scientifique&lt;/li&gt;
 &lt;li&gt;Long Term Evolution Experiment : des bactéries évoluant en laboratoire depuis 1988, que vous pouvez lire 
 &lt;a href=&#34;https://irenetanneur.github.io/fr/post/ltee_article/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ici&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Affaire Sokal et affaire Sokal au carré : de quoi parle-t-on ?&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.js2-sciences.com/blog/affaire-sokal-et-affaire-sokal-au-carre&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Affaire Sokal et affaire Sokal au carré : de quoi parle-t-on ?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;J&amp;rsquo;ai ensuite fondé le pôle Podcasts de Je Science donc Je Suis avec une équipe dynamique, et nous avons lancé notre premier format de podcast, porté par Béatrice Urbah &lt;em&gt;Les Voix de la Science&lt;/em&gt; en décembre 2020. Vous trouverez sur 
-&lt;a href=&#34;https://les-voix-de-la-science.lepodcast.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ce site&lt;/a&gt; les liens vers le podcast sur les principales plateformes d&amp;rsquo;écoute.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai ensuite fondé le pôle Podcasts de Je Science donc Je Suis avec une équipe dynamique, et nous avons lancé sous l&amp;rsquo;impulsion de Béatrice Urbah notre premier podcast, sous le format d&amp;rsquo;interview de scientifiques, &lt;em&gt;Les Voix de la Science&lt;/em&gt; en décembre 2020.&lt;/p&gt;
+&lt;p&gt;En février 2021 un second format a vu le jour, &lt;em&gt;Flash Sciences&lt;/em&gt; : des billets courts de vulgarisation scientifiques sur des sujets précis.&lt;/p&gt;
+&lt;p&gt;Ci-dessous les épisodes que j&amp;rsquo;ai conçus, réalisés et produits :&lt;/p&gt;
+&lt;p&gt;Pour &lt;em&gt;Les Voix de la Science&lt;/em&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agatha Liévin-Bazin, éthologue et vulgarisatrice scientifique 
+&lt;a href=&#34;https://les-voix-de-la-science.lepodcast.fr/agatha-lievin-bazin-partie-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;partie 1&lt;/a&gt; et 
+&lt;a href=&#34;https://les-voix-de-la-science.lepodcast.fr/agatha-lievin-bazin-partie-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;partie 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Malek Amiri, doctorant en sciences infirmières 
+&lt;a href=&#34;https://les-voix-de-la-science.lepodcast.fr/malek-amiri-partie-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;partie 1&lt;/a&gt; et 
+&lt;a href=&#34;https://les-voix-de-la-science.lepodcast.fr/malek-amiri-partie-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;partie 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour &lt;em&gt;Flash Sciences&lt;/em&gt; :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://flashsciences.lepodcast.fr/le-microbiote-vaginal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Le microbiote vaginal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://flashsciences.lepodcast.fr/les-supraconducteurs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Les supraconducteurs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://flashsciences.lepodcast.fr/des-algues-pour-les-voyages-spatiaux-avec-lequipe-igem-de-sorbonne-universite&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Des algues pour les voyages spatiaux - avec l&amp;rsquo;équipe iGEM de Sorbonne Université&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En tant que responsable du pôle podcast en 2020-2021, je me suis occupée de la mise en ligne et du partage sur les réseaux sociaux des épisodes de toute l&amp;rsquo;équipe. J&amp;rsquo;ai également créé les visuels pour mes propres épisodes.&lt;/p&gt;
+&lt;p&gt;Vous trouverez ici les liens vers les principales plateformes d&amp;rsquo;écoute pour [Les Voix de la Science]((&lt;a href=&#34;https://les-voix-de-la-science.lepodcast.fr/&#34;&gt;https://les-voix-de-la-science.lepodcast.fr/&lt;/a&gt;) et 
+&lt;a href=&#34;https://flashsciences.lepodcast.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Flash Sciences&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
