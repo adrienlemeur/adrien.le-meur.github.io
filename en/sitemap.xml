@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://irenetanneur.github.io/en/project/comscicon/</loc>
+    <lastmod>2021-11-14T10:24:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/comscicon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/comscicon/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/project/</loc>
+    <lastmod>2021-11-14T10:24:34+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/project/"
+                />
+  </url>
+  
+  <url>
     <loc>https://irenetanneur.github.io/en/authors/</loc>
     <lastmod>2021-10-13T06:48:27+02:00</lastmod>
     <xhtml:link
@@ -44,21 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://irenetanneur.github.io/en/author/irene-tanneur/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://irenetanneur.github.io/en/project/</loc>
-    <lastmod>2021-10-13T06:48:27+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/project/"
                 />
   </url>
   
@@ -140,6 +155,36 @@
   <url>
     <loc>https://irenetanneur.github.io/en/science-comedy-show/</loc>
     <lastmod>2021-10-13T06:34:54+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/talk/subtillery/</loc>
+    <lastmod>2021-06-18T19:15:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/talk/subtillery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/talk/subtillery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://irenetanneur.github.io/en/talk/</loc>
+    <lastmod>2021-06-18T19:15:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://irenetanneur.github.io/fr/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://irenetanneur.github.io/en/talk/"
+                />
   </url>
   
   <url>
@@ -296,20 +341,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://irenetanneur.github.io/en/publication/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://irenetanneur.github.io/en/talk/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://irenetanneur.github.io/fr/talk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://irenetanneur.github.io/en/talk/"
                 />
   </url>
   

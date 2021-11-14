@@ -5,7 +5,7 @@
     <link>https://irenetanneur.github.io/fr/</link>
       <atom:link href="https://irenetanneur.github.io/fr/index.xml" rel="self" type="application/rss+xml" />
     <description>Irène Tanneur</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Wed, 13 Oct 2021 06:48:44 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Sun, 14 Nov 2021 10:33:27 +0100</lastBuildDate>
     <image>
       <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Irène Tanneur</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title> L’ADN sera-t-il l’avenir du stockage de données ?</title>
+      <link>https://irenetanneur.github.io/fr/project/theconversation/</link>
+      <pubDate>Sun, 14 Nov 2021 10:33:27 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/fr/project/theconversation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ComSciCon</title>
+      <link>https://irenetanneur.github.io/fr/project/comscicon/</link>
+      <pubDate>Sun, 14 Nov 2021 10:24:38 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/fr/project/comscicon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Science Comedy Show</title>
       <link>https://irenetanneur.github.io/fr/project/science-comedy-show/</link>
       <pubDate>Wed, 13 Oct 2021 06:48:44 +0200</pubDate>
       <guid>https://irenetanneur.github.io/fr/project/science-comedy-show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring mutational landscapes of Bacillus subtilis strains with increased replication error rate and - or impaired mismatch repair</title>
+      <link>https://irenetanneur.github.io/fr/talk/subtillery/</link>
+      <pubDate>Fri, 18 Jun 2021 19:15:00 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/fr/talk/subtillery/</guid>
       <description></description>
     </item>
     

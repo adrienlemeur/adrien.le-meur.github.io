@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Irène Tanneur</title>
+    <title>Communications | Irène Tanneur</title>
     <link>https://irenetanneur.github.io/fr/talk/</link>
       <atom:link href="https://irenetanneur.github.io/fr/talk/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language>
+    <description>Communications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>fr</language><lastBuildDate>Fri, 18 Jun 2021 19:15:00 +0100</lastBuildDate>
     <image>
       <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Communications</title>
       <link>https://irenetanneur.github.io/fr/talk/</link>
     </image>
+    
+    <item>
+      <title>Exploring mutational landscapes of Bacillus subtilis strains with increased replication error rate and - or impaired mismatch repair</title>
+      <link>https://irenetanneur.github.io/fr/talk/subtillery/</link>
+      <pubDate>Fri, 18 Jun 2021 19:15:00 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/fr/talk/subtillery/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
