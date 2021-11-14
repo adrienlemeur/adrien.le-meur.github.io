@@ -5,12 +5,68 @@
     <link>https://irenetanneur.github.io/en/author/irene-tanneur/</link>
       <atom:link href="https://irenetanneur.github.io/en/author/irene-tanneur/index.xml" rel="self" type="application/rss+xml" />
     <description>Irène Tanneur</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Oct 2021 06:48:27 +0200</lastBuildDate>
     <image>
-      <url>https://irenetanneur.github.io/en/author/irene-tanneur/avatar_hu33d8f2710ea4928d295bd08cdc05f6eb_160421_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://irenetanneur.github.io/en/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Irène Tanneur</title>
       <link>https://irenetanneur.github.io/en/author/irene-tanneur/</link>
     </image>
+    
+    <item>
+      <title>Science Comedy Show</title>
+      <link>https://irenetanneur.github.io/en/project/science-comedy-show/</link>
+      <pubDate>Wed, 13 Oct 2021 06:48:27 +0200</pubDate>
+      <guid>https://irenetanneur.github.io/en/project/science-comedy-show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Je Science donc Je Suis</title>
+      <link>https://irenetanneur.github.io/en/project/js2/</link>
+      <pubDate>Fri, 01 Jan 2021 11:16:17 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/en/project/js2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Papier Mâché</title>
+      <link>https://irenetanneur.github.io/en/project/papiermache/</link>
+      <pubDate>Fri, 01 Jan 2021 09:06:54 +0100</pubDate>
+      <guid>https://irenetanneur.github.io/en/project/papiermache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long Term Evolution Experiment : evolving bacteria since 1988</title>
+      <link>https://irenetanneur.github.io/en/post/ltee_article/</link>
+      <pubDate>Sun, 04 Oct 2020 11:57:57 +0200</pubDate>
+      <guid>https://irenetanneur.github.io/en/post/ltee_article/</guid>
+      <description>&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;strong&gt;What a beautiful (evolutionary hi)story : an experiment has been going on for more than thirty years at the University of Michigan. At the time, no one could have guessed how long it would last, nor the considerable importance it would have on the field of evolutionary biology. Let&amp;rsquo;s try to summarize this experiment - known as LTEE, Long Term Evolution Experiment - and its importance for the scientific community.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bacterial culture is a simple but essential technique in microbiology: it consists of placing a microorganism in a medium containing nutrients, so that it can reproduce. The growth of bacteria during culture is divided into several phases: during the lag phase, the bacteria adapt to the environment and to the growth conditions: they synthesize the molecules necessary for their reproduction. Then they enter an exponential phase, the growth phase, during which they divide; their number then doubles regularly. When the bacteria have consumed the majority of the nutrients in the culture medium, they can no longer reproduce: the culture is then said to be saturated.&lt;/p&gt;
+&lt;p&gt;In 1988, a young American researcher named Richard Lenski started a small experiment: he set up two cultures of &lt;em&gt;Escherichia coli&lt;/em&gt;, a model bacterium - i.e., well known to biologists - and decided to maintain this experiment. To do this, all he had to do the next day was to take part of the liquid culture - which then contained few nutrients but many bacteria - and place it in culture medium containing nutrients, so that the bacteria could divide again. With each division, the bacteria can acquire mutations; placing part of the previous culture in a new medium therefore allows the bacteria to accumulate mutations as the experiment progresses.&lt;/p&gt;
+&lt;h2 id=&#34;the-test-tube-a-simple-but-practical-tool-for-studying-evolution&#34;&gt;The test tube: a simple but practical tool for studying evolution&lt;/h2&gt;
+&lt;p&gt;Why would one want to recreate evolution in the laboratory? In nature, the conditions of evolution are always changing: temperature, humidity, available nutrients or even the presence of predators are all factors that will influence the adaptation of organisms. It is therefore difficult to trace the evolutionary path taken by the organism.
+In the laboratory, the bacteria are comfortably settled at a controllable temperature, their nutrients are the same every day, and it is possible to compare them from one day to the next, whether on a phenotypic level - their appearance or growth rate, for example - or on a genomic level, with sequencing making it possible to know which mutations have appeared and remained in each population.
+More than 30 years later, the experiment is still ongoing, with 12 populations evolving in parallel, each having gone through more than 70,000 generations since the start of the experiment. Many scientists have taken up the torch of daily transfer of the bacteria into a new culture medium. Richard Lenski believes that all the mutations that can be observed in the &lt;em&gt;E. coli&lt;/em&gt; genome have appeared during the thirty years of experiments, even if they have not all been conserved. The multiple mutations have caused many changes in phenotypes in these populations: for example, in all populations, cell size To go furtherhas increased over generations, and the bacteria have reproduced faster and faster - they are said to be getting fitter. In fact, they are constantly improving their fitness, and their evolution constantly holds surprises for those who study them. For this reason, there is as of today no end date for the experience.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This article was originally published in the June 2020 issue of Je Science donc j&amp;rsquo;écris, the popular science journal of the association 
+&lt;a href=&#34;https://twitter.com/JeScience&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Je Science donc je suis&lt;/a&gt;. You can find this issue 
+&lt;a href=&#34;https://fr.calameo.com/read/00559114466161440c18c&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; (in French).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Do not hesitate to send me your remarks and questions about the article, as well as any mistakes you might spot in the translation!&lt;/p&gt;
+&lt;h3 id=&#34;sources&#34;&gt;Sources&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;How a 30-Year Experiment Has Fundamentally Changed Our View of How Evolution Works. (2019). Discover Magazine. Consulté 11 juin 2020, à l’adresse &lt;a href=&#34;https://www.discovermagazine.com/planet-earth/how-a-30-year-experiment-has-fundamentally-changed-our-view-of-how&#34;&gt;https://www.discovermagazine.com/planet-earth/how-a-30-year-experiment-has-fundamentally-changed-our-view-of-how&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Wiser, M. J., Ribeck, N., &amp;amp; Lenski, R. E. (2013). Long-Term Dynamics of Adaptation in Asexual Populations. Science, 342(6164), 1364‑1367. &lt;a href=&#34;https://doi.org/10.1126/science.1243357&#34;&gt;https://doi.org/10.1126/science.1243357&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;to-go-further&#34;&gt;To go further&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://telliamedrevisited.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Richard Lenski&amp;rsquo;s blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-09-mai-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Long-term scientific experiments, in the radio program &lt;em&gt;La Terre au Carré&lt;/em&gt;&lt;/a&gt; (in French)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;</description>
+    </item>
     
   </channel>
 </rss>
